@@ -51,12 +51,6 @@ frameworks. Priority tags, progress bar
 
 ---
 
-### GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=poojadahiya22&theme=tokyonight)
-
----
-
 ### Connect with me
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
