@@ -53,11 +53,7 @@ frameworks. Priority tags, progress bar
 
 ### GitHub Stats
 
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojadahiya22&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=poojadahiya22&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poojadahiya22&layout=compact&theme=tokyonight)
 
 ---
 
