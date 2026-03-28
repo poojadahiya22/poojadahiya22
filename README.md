@@ -1,11 +1,8 @@
 <h1>Hey, I'm Pooja 👋</h1>
 
-<p>
-CS student, currently in my final year, figuring out 
-placements one problem at a time. I code in C++ for DSA 
-and build small web projects on the side to keep things 
+Currently a CS student.I code in C++ for DSA
+and build projects on the side to keep things
 interesting.
-</p>
 
 ---
 
@@ -13,11 +10,11 @@ interesting.
 
 - Grinding through LeetCode 75 in C++
 - Improving my frontend projects
-- Preparing for HackWithInfy and placement season
+- Preparing for Placements 
 
 ---
 
-### Tech I use
+### Tech Stack
 
 
 
@@ -44,9 +41,9 @@ interesting.
 
 ### Projects
 
-**TaskFlow** — A to-do app I built from scratch with priority
-tags, progress tracking, and localStorage. No frameworks,
-just vanilla JS.
+**TaskFlow** — A to-do app built from scratch with no
+frameworks. Priority tags, progress bar
+— all vanilla JS.
 🔗 https://poojadahiya22.github.io/taskflow-app/
 
 **LeetCode 75** — Working through the full list in C++.
@@ -57,17 +54,17 @@ just vanilla JS.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojadahiya22&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=poojadahiya22&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=poojadahiya22&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=poojadahiya22&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojadahiya22&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojadahiya22&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
 
-### Let's connect
+### Connect with me
 
 [
 
@@ -79,3 +76,7 @@ just vanilla JS.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ](https://github.com/poojadahiya22)
+
+---
+
+✨ *Learning. Building. Growing every day.* 🚀
