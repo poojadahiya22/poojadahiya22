@@ -53,29 +53,23 @@ frameworks. Priority tags, progress bar
 
 ### GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=poojadahiya22&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=poojadahiya22&theme=tokyonight" width="48%"/>
-</p>
+![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojadahiya22&show_icons=true&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojadahiya22&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=poojadahiya22&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poojadahiya22&layout=compact&theme=tokyonight)
 
 ---
 
 ### Connect with me
 
-[
-
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://www.linkedin.com/in/pooja-dahiya-a04012297)
-[
+(https://www.linkedin.com/in/pooja-dahiya-a04012297)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-](https://github.com/poojadahiya22)
+(https://github.com/poojadahiya22)
 
 ---
 
