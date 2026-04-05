@@ -39,13 +39,13 @@ interesting.
 
 ---
 ### Projects
-##TaskFlow
+TaskFlow
 
 Built a fully functional to-do app from scratch using pure Vanilla JavaScript — no frameworks, no shortcuts. Includes priority tagging, progress tracking, and a clean minimal UI. It was my way of proving I understand the fundamentals before reaching for libraries.
 
-#Live Demo: https://poojadahiya22.github.io/taskflow-app/
+Live Demo: https://poojadahiya22.github.io/taskflow-app/
 
-#Source Code: https://github.com/poojadahiya22/taskflow-app
+Source Code: https://github.com/poojadahiya22/taskflow-app
 
 
 Finance Dashboard
