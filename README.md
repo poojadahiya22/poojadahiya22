@@ -39,18 +39,18 @@ interesting.
 
 ---
 ### Projects
-## TaskFlow
+##TaskFlow
 Built a fully functional to-do app from scratch using pure Vanilla JavaScript — no frameworks, no shortcuts. Includes priority tagging, progress tracking, and a clean minimal UI. It was my way of proving I understand the fundamentals before reaching for libraries.
-# Live Demo: https://poojadahiya22.github.io/taskflow-app/
-# Source Code: https://github.com/poojadahiya22/taskflow-app
-## Finance Dashboard
+#Live Demo: https://poojadahiya22.github.io/taskflow-app/
+#Source Code: https://github.com/poojadahiya22/taskflow-app
+##Finance Dashboard
 A personal finance dashboard that tracks income, expenses, and savings in real time. Built with Vanilla JS, it features interactive charts, transaction management with add/edit/delete, role-based access (Admin & Viewer), dark/light theme toggle, and fully responsive design. Everything persists via localStorage — no backend needed.
-# Live Demo: https://poojadahiya22.github.io/finance-dashboard/
-# Source Code: https://github.com/poojadahiya22/finance-dashboard
+#Live Demo: https://poojadahiya22.github.io/finance-dashboard/
+#Source Code: https://github.com/poojadahiya22/finance-dashboard
 
-# LeetCode 75
+#LeetCode 75
 Consistently solving the LeetCode 75 problem set in C++ to sharpen my DSA fundamentals. Focused on understanding patterns, not just getting accepted solutions.
-# Source Code: https://github.com/poojadahiya22/Leetcode75-Solutions
+#Source Code: https://github.com/poojadahiya22/Leetcode75-Solutions
 
 ---
 
