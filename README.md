@@ -52,9 +52,7 @@ Finance Dashboard
 
 A personal finance dashboard that tracks income, expenses, and savings in real time. Built with Vanilla JS, it features interactive charts, transaction management with add/edit/delete, role-based access (Admin & Viewer), dark/light theme toggle, and fully responsive design. Everything persists via localStorage — no backend needed.
 
-Live Demo: https://poojadahiya22.github.io/finance-dashboard/
-
-Source Code: https://github.com/poojadahiya22/finance-dashboard
+Source Code: https://github.com/poojadahiya22/payfi
 
 LeetCode 75
 
